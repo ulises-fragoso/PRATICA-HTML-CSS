@@ -1,0 +1,29 @@
+body{
+    background-color: #3C3D37
+}
+
+.italics{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+    color: black;
+}
+
+p{
+    border: 7px solid black;
+    border-radius: 2%;
+    text-align: justify;
+    text-justify: inter-word;
+    color: #ebe9e6
+    
+}
+
+h1{
+    font-family: serif;
+    inline-size: 500px;
+    background-color: rgba(32, 3, 55, 0.349);
+    color: #697565
+}
+

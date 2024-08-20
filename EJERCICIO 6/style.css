@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+
+.container{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+
+h2,h3{
+    color: brown;
+    background-color: black;
+    inline-size: 250px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

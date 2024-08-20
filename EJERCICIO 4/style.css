@@ -1,0 +1,39 @@
+body{
+    background-color: #173B45;
+    font-family: "Rowdies", sans-serif;;
+
+}
+
+div.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+div.child{
+    border: 5px solid snow;
+    
+}
+
+img{
+    width: 180px;
+    height: 180px;
+    display: block;
+    margin: auto;
+    flex-grow: 5;
+    object-fit: cover;
+}
+
+h2{
+    background: rgb(34,195,161);
+    background: linear-gradient(0deg, rgba(34,195,161,1) 7%, rgba(253,187,45,1) 100%);
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    color: #fffaf6;
+}
+
+li{
+    font-family: "Caveat", cursive;;
+    color: #F8EDED;
+}
